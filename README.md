@@ -2,7 +2,7 @@
 <h3 align="center">Someone who's always trying to figure things out!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusimy&label=Profile%20views&color=0e75b6&style=flat" alt="yusimy" /> </p>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
 - 🌱 I’m currently learning **Python, SQL**
 
